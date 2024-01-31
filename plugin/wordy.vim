@@ -38,6 +38,7 @@ if !exists('g:wordy#ring')
     \ ['problematic', 'redundant', ],
     \ ['colloquial', 'idiomatic', 'similies', ],
     \ 'art-jargon',
+    \'ai-jargon',
     \ ['contractions', 'opinion', 'vague-time', 'said-synonyms', ],
     \ 'adjectives',
     \ 'adverbs',

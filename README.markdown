@@ -1,3 +1,9 @@
+# vim-wordy-ext
+_wordy_ with an additional ai-jargon dictionary file. You can use it with :Wordy ai-jargon, to catch jargon that is created by AI models like ChatGPT. The jargon file was largely created through an n-gram analysis of ![this dataset](https://huggingface.co/datasets/Hello-SimpleAI/HC3). The rest of the plugin remains unchanged.
+
+
+
+
 # vim-wordy
 
 > Uncover usage problems in your writing
